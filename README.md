@@ -44,4 +44,3 @@ The dataset does not contain individual patient-level data. Original trial data 
 
 ## License
 This code is released under the MIT License. See the LICENSE file for details.
-"# glp1_weight_regain_analysis" 
