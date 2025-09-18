@@ -20,7 +20,7 @@ This repository contains the R code used for the article *[Trajectory of weight 
 
 ## Quick start
 
-Clone this repository, then open it in R (RStudio recommended).  
+Clone this repository and then open the project in R (RStudio recommended).  
 To set up the environment and install all required packages:
 
 ```r
