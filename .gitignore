@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# renv local library
+renv/library/
+renv/staging/
+
+# OS
+.DS_Store
+Thumbs.db
