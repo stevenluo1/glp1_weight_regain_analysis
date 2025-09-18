@@ -1,0 +1,26 @@
+{
+    "id": "CE2E0E96",
+    "path": "~/glp1_data_analysis/scripts/loso.R",
+    "project_path": "scripts/loso.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1758194052132.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,7",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1758196883,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758196883966,
+    "read_only": false,
+    "read_only_alternatives": []
+}

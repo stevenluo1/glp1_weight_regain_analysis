@@ -1,0 +1,26 @@
+{
+    "id": "F8261F1A",
+    "path": "~/glp1_data_analysis/scripts/main.R",
+    "project_path": "scripts/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1758196976237.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1758147783,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758147783,
+    "read_only": false,
+    "read_only_alternatives": []
+}
