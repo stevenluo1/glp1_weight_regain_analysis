@@ -1,6 +1,6 @@
 # GLP-1 Receptor Agonist Weight Regain Analysis
 
-This repository contains the R code used for *Trajectory of weight regain after cessation of GLP-1 receptor agonists: a systematic review and nonlinear meta-regression*. The code fits nonlinear mixed-effects recovery models and generates reproducible plots of weight regain with fixed effect and study-specific curves.
+This repository contains the R code used for [Trajectory of weight regain after cessation of GLP-1 receptor agonists: a systematic review and nonlinear meta-regression](https://www.medrxiv.org/content/10.1101/2025.06.09.25328726v2). The code fits nonlinear mixed-effects recovery models and generates reproducible plots of weight regain with fixed effect and study-specific curves.
 
 ## Contents
 - **R/** — Functions for data preparation, model fitting, and plotting
